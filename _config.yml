@@ -1,0 +1,28 @@
+name: MassCentral.com
+favicon: null
+layout_spectrum: 0.11749711749143898
+typography_spectrum: 0.9874253149610013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.00307347159832716
+  lightness: 0.3189190581906587
+  saturation: 0.41938610654324293
+  rhythmicContrast: 0.2836816478520632
+purpose: []
